@@ -1,0 +1,2 @@
+# ml-anomaly-detection-validation
+Machine learning model validation for anomaly detection in induction motors, developed as part of a Master's research project.
