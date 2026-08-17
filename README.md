@@ -25,7 +25,7 @@ O pipeline utilizado nos experimentos consiste em:
 6. Detecção de anomalias;
 7. Avaliação por Precision, Recall, F1-score, Specificity e AUC-ROC.
 
-## Modelos avaliados
+### Modelos avaliados
 
 Foram avaliados:
 
@@ -35,7 +35,7 @@ Foram avaliados:
 
 Cada modelo foi inicialmente executado com uma configuração baseline e posteriormente submetido à otimização de hiperparâmetros.
 
-## Resultados preliminares
+### Resultados preliminares
 
 | Modelo | F1 Baseline | F1 Otimizado | FP | FN |
 |---|---:|---:|---:|---:|
